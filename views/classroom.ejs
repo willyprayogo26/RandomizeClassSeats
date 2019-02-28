@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <% include ./navbar/bootstrapLink.ejs %>
+    <title><%= title%></title>
+    <style>
+        #classSeats {
+            background-color: lightgrey;
+            width: 1000px;
+            height: 500px;
+            border: 5px solid rgb(48, 51, 48);
+            position: absolute;
+            top: 55%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+        .board {
+            background-color: lightgrey;
+            width: 750px;
+            height: 25px;
+            border: 2px solid rgb(48, 51, 48);
+            position: absolute;
+            top: 5%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .seats {    
+            border: 2px solid rgb(48, 51, 48);
+            display:inline-block;
+            padding: 20px 40px;
+            margin-top: 20px;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <% include ./navbar/navbar.ejs %>
+    
+    <div id="classSeats">
+        <div class="board">Papan Tulis
+        <br><br>
+        <% for(let seat of seats) { %>
+            <% if(seat.dataValues.UserId < 10) { %>
+                <div class="seats">
+                        0<%= seat.dataValues.UserId %>
+                </div>
+            <% } else { %>
+                <div class="seats">
+                        <%= seat.dataValues.UserId %>
+                </div>
+            <% } %>
+        <% } %>
+        </div>
+    </div>
+</body>
+</html>

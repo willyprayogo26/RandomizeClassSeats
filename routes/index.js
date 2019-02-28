@@ -3,6 +3,7 @@ const findclass = require('./findclass')
 const login = require('./login')
 const logout = require('./logout')
 const user = require('./users')
+const history = require('./history')
 const isLogin = require('../middlewares/isLogin')
 
 routes.use(isLogin)
@@ -10,6 +11,7 @@ routes.use('/findclass', findclass)
 routes.use('/login', login)
 routes.use('/logout', logout)
 routes.use('/users', user)
+routes.use('/history', history)
 
 routes.get('/', (req, res) => {
     res.render("home", {

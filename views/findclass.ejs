@@ -9,7 +9,7 @@
 </head>
 <body>
     <% include ./navbar/navbar.ejs %>
-    <form action="/findclass" method="post">
+    <form action="/findclass/show" method="post">
         <select name="class">
             <% for(let data of classes) { %>
                 <option value="<%= data.dataValues.id %>"><%= data.dataValues.name %></option>

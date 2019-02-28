@@ -16,7 +16,7 @@ let sess = {
 }
 app.use(session(sess))
 
-const randomize = new CronJob('30 22 * * *', function() {
+const randomize = new CronJob('12 0 * * *', function() {
 	random()
 });
 randomize.start();

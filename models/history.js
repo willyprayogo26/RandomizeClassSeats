@@ -9,5 +9,16 @@ module.exports = (sequelize, DataTypes) => {
   History.associate = function(models) {
     // associations can be defined here
   };
+
+  History.getRandomClass = function(input) {
+    return History.findAll({
+      where: {
+          "createdAt": new Date().toLocaleDateString(),
+          "ClassId": input
+      },
+      order: [['ChairId', 'ASC']]
+    })
+  }
+
   return History;
 };
