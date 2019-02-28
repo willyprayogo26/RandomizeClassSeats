@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <% include ./navbar/bootstrapLink.ejs %>
+    <title><%= title%></title>
+    <style>
+        table {
+            padding: 5px;
+            background-color: aliceblue;
+            margin-top: 10px;
+            width: 100%;
+        }
+        thead {
+            text-align: center;
+            background-color: #333333;
+            color: aliceblue;
+            font-weight: bold;
+        }
+        td {
+            padding: 8px;
+        }
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333333;
+        }
+        li {
+            float: unset;
+        }
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 16px;
+            text-decoration: none;
+        }
+        li a:hover {
+            background-color: #111111;
+        }
+    </style>
+</head>
+<body>
+    <% include ./navbar/navbar.ejs %>
+    <p style="text-align:center"><a href="./users/add">Add User Data</a></p>
+    <table border="1">
+        <thead>
+            <td>Id</td>
+            <td>First Name</td>
+            <td>Last Name</td>
+            <td>Gender</td>
+            <td>Email</td>
+            <td>Role</td>
+            <td>Class Id</td>
+            <td>Options</td>
+        </thead>
+    
+        <tbody>
+            <%if(data.length > 0) {%>
+                <%for(let user of data) {%>
+                    <tr>
+                        <td style="text-align:center"><%= user.id %></td>
+                        <td><%= user.firstName %></td>
+                        <td><%= user.lastName %></td>
+                        <td style="text-align:center"><%= user.gender %></td>
+                        <td><%= user.email %></td>
+                        <td style="text-align:center"><%= user.role %></td>
+                        <td style="text-align:center"><%= user.ClassId %></td>
+                        <td style="text-align:center; width: 15%"><a href="./users/edit/<%= user.id %>">Edit</a> | <a href="./users/delete/<%= user.id %>" onclick="return confirm('Are you sure you want to delete?')">Delete</a></td>
+                    </tr>
+                <%}%>
+            <%}%>
+        </tbody>
+    </table>
+</body>
+</html>

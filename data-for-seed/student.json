@@ -1,0 +1,1269 @@
+[
+    {
+        "firstName": "Nuryati",
+        "lastName": "Fajrini",
+        "gender": "female",
+        "age": 13,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Arif ",
+        "lastName": "Rosadi",
+        "gender": "male",
+        "age": 14,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Khoiron",
+        "lastName": "Taufik",
+        "gender": "male",
+        "age": 14,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Umi",
+        "lastName": "Khasanah",
+        "gender": "female",
+        "age": 13,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Nur",
+        "lastName": "Hadi",
+        "gender": "male",
+        "age": 14,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Syaiful",
+        "lastName": "Mursalin",
+        "gender": "male",
+        "age": 14,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Rahma",
+        "lastName": "Wati",
+        "gender": "female",
+        "age": 14,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Miftahul",
+        "lastName": "Imam",
+        "gender": "male",
+        "age": 13,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Willy",
+        "lastName": "Permana",
+        "gender": "male",
+        "age": 14,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Maulana",
+        "lastName": "Hasanuddin",
+        "gender": "male",
+        "age": 14,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Lia",
+        "lastName": "Sismawati",
+        "gender": "female",
+        "age": 13,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Sylvia",
+        "lastName": "Agustina",
+        "gender": "female",
+        "age": 14,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Yogi",
+        "lastName": "Agusman",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Muhammad",
+        "lastName": "Giat",
+        "gender": "male",
+        "age": 12,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Rizal",
+        "lastName": "Asnawi",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Fikri",
+        "lastName": "Hidayatullah",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Nella",
+        "lastName": "Susan",
+        "gender": "female",
+        "age": 14,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Via",
+        "lastName": "Vallen",
+        "gender": "female",
+        "age": 14,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Rahmat",
+        "lastName": "Antonio",
+        "gender": "male",
+        "age": 13,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Mahdi",
+        "lastName": "Ramadhan",
+        "gender": "male",
+        "age": 14,
+        "role": "student",
+        "ClassId": 2
+    },
+    {
+        "firstName": "Joshua",
+        "lastName": "Suherman",
+        "gender": "male",
+        "age": 14,
+        "role": "student",
+        "ClassId": 3
+    },
+    {
+        "firstName": "Yanto",
+        "lastName": "Ahmad",
+        "gender": "male",
+        "age": 12,
+        "role": "student",
+        "ClassId": 3
+    },
+    {
+        "firstName": "Annisa",
+        "lastName": "Pratiwi",
+        "gender": "female",
+        "age": 14,
+        "role": "student",
+        "ClassId": 3
+    },
+    {
+            "firstName": "Martin",
+            "lastName": "Suhendra",
+            "gender": "male",
+            "age": 17,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Muhammad",
+            "lastName": "Ridho",
+            "gender": "male",
+            "age": 15,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "aaaa",
+            "lastName": "bbbb",
+            "gender": "male",
+            "age": 22,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Taufik",
+            "lastName": "Rahmat",
+            "gender": "male",
+            "age": 15,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Ilham",
+            "lastName": "Mamor",
+            "gender": "male",
+            "age": 13,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Teguh",
+            "lastName": "Ari",
+            "gender": "male",
+            "age": 13,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Debby",
+            "lastName": "Emanuel",
+            "gender": "male",
+            "age": 14,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Muhammad",
+            "lastName": "Rahmadianto",
+            "gender": "male",
+            "age": 14,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Maulana",
+            "lastName": "Zulkarnaen",
+            "gender": "male",
+            "age": 15,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Mahmudah",
+            "lastName": "Megawati",
+            "gender": "female",
+            "age": 15,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Dwi",
+            "lastName": "Pratiwi",
+            "gender": "female",
+            "age": 15,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Ahmad",
+            "lastName": "Fitrah",
+            "gender": "male",
+            "age": 15,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Budi",
+            "lastName": "Nugroho",
+            "gender": "male",
+            "age": 14,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Renata",
+            "lastName": "Budiono",
+            "gender": "female",
+            "age": 15,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Rahmah",
+            "lastName": "Lisna",
+            "gender": "female",
+            "age": 14,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Alya",
+            "lastName": "Siregar",
+            "gender": "female",
+            "age": 14,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Rifki",
+            "lastName": "Putera",
+            "gender": "male",
+            "age": 14,
+            "role": "student",
+            "ClassId": 3
+        },
+        {
+            "firstName": "Dwita",
+            "lastName": "Ayu",
+            "gender": "female",
+            "age": 15,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Doni",
+            "lastName": "Siswandi",
+            "gender": "male",
+            "age": 14,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Juli",
+            "lastName": "Saputera",
+            "gender": "male",
+            "age": 14,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Herman",
+            "lastName": "Yulianto",
+            "gender": "male",
+            "age": 18,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Aditya",
+            "lastName": "Putera",
+            "gender": "male",
+            "age": 15,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            
+            "firstName": "Heru",
+            "lastName": "Prayoga",
+            "gender": "male",
+            "age": 15,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Farah",
+            "lastName": "Fitri",
+            "gender": "female",
+            "age": 14,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Booby",
+            "lastName": "Frans",
+            "gender": "male",
+            "age": 15,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Riki",
+            "lastName": "Kusuma",
+            "gender": "male",
+            "age" : 15,
+            "role": "student",
+            "ClassId": 4
+    
+        },
+        {
+            "firstName": "Dwita",
+            "lastName": "Ayu",
+            "gender": "female",
+            "age": 15,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Doni",
+            "lastName": "Siswandi",
+            "gender": "male",
+            "age": 14,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Juli",
+            "lastName": "Saputera",
+            "gender": "male",
+            "age": 14,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Herman",
+            "lastName": "Yulianto",
+            "gender": "male",
+            "age": 18,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Aditya",
+            "lastName": "Putera",
+            "gender": "male",
+            "age": 15,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Roni",
+            "lastName": "Mail",
+            "gender": "male",
+            "age": 15,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Ferry",
+            "lastName": "Setiawan",
+            "gender": "male",
+            "age": 14,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Booby",
+            "lastName": "Frans",
+            "gender": "male",
+            "age": 15,
+            "role": "student",
+            "ClassId": 4
+        },
+        {
+            "firstName": "Riki",
+            "lastName": "Kusuma",
+            "gender": "male",
+            "age" : 15,
+            "role": "student",
+            "ClassId": 4
+        },
+    
+    {
+        "firstName": "Tri",
+        "lastName": "Wibowo",
+        "gender": "male",
+        "age": 13,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Septy",
+        "lastName": "Ansyah",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Muhammad",
+        "lastName": "Ibnu",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Yadi",
+        "lastName": "Permana",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Raka",
+        "lastName": "Syafik",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Queena",
+        "lastName": "Olivia",
+        "gender": "female",
+        "age": 14,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Zensen",
+        "lastName": "Susanto",
+        "gender": "female",
+        "age": 15,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Rehan",
+        "lastName": "Muhammad",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Agus",
+        "lastName": "Mahmud",
+        "gender": "male",
+        "age": 14,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Yusuf",
+        "lastName": "Mugni",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Wawan",
+        "lastName": "Rizki",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Hasyim",
+        "lastName": "Fannani",
+        "gender": "male",
+        "age": 14,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Agung",
+        "lastName": "Pratama",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Mia",
+        "lastName": "Khalifah",
+        "gender": "female",
+        "age": 15,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Nurdin",
+        "lastName": "Slamet",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Vina",
+        "lastName": "Dina",
+        "gender": "female",
+        "age": 15,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Paulina",
+        "lastName": "Davita",
+        "gender": "female",
+        "age": 15,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Selamet",
+        "lastName": "Riyadi",
+        "gender": "male",
+        "age": 17,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Dimas",
+        "lastName": "Ragil",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Irfan",
+        "lastName": "Hakim",
+        "gender": "male",
+        "age": 14,
+        "role": "student",
+        "ClassId": 5
+    },
+    {
+        "firstName": "Restu",
+        "lastName": "Prayogi",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "Hermi",
+        "lastName": "Ibrahim",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "Wahyu",
+        "lastName": "Setiawan",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "Bayu",
+        "lastName": "Saputera",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "aaaa",
+        "lastName": "bbbb",
+        "gender": "male",
+        "age": 22,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "aaaa",
+        "lastName": "bbbb",
+        "gender": "male",
+        "age": 22,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "aaaa",
+        "lastName": "bbbb",
+        "gender": "male",
+        "age": 22,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "aaaa",
+        "lastName": "bbbb",
+        "gender": "male",
+        "age": 22,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "aaaa",
+        "lastName": "bbbb",
+        "gender": "male",
+        "age": 22,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "aaaa",
+        "lastName": "bbbb",
+        "gender": "male",
+        "age": 22,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "aaaa",
+        "lastName": "bbbb",
+        "gender": "male",
+        "age": 22,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "Asnawi",
+        "lastName": "Siregar",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "Eka",
+        "lastName": "Rahman",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "Awtian",
+        "lastName": "Ramadhan",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "Paul",
+        "lastName": "Walker",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "Miyabi",
+        "lastName": "Suzanna",
+        "gender": "female",
+        "age": 15,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "Janet",
+        "lastName": "Jenata",
+        "gender": "female",
+        "age": 15,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "Alfiansyah",
+        "lastName": "Zulkarnain",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "Bill Hendri",
+        "lastName": "Gates",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "Jackie",
+        "lastName": "Chan",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 6
+    },
+    {
+        "firstName": "Zainal",
+        "lastName": "Abidin",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Zainab",
+        "lastName": "Zaini",
+        "gender": "female",
+        "age": 15,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Namira",
+        "lastName": "Manurung",
+        "gender": "female",
+        "age": 15,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Fatimah",
+        "lastName": "Khasanah",
+        "gender": "female",
+        "age": 15,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Sofi",
+        "lastName": "Fatma",
+        "gender": "female",
+        "age": 16,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Rizki",
+        "lastName": "Darmawan",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Habib",
+        "lastName": "Rizieq",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Zezen",
+        "lastName": "Zahab",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Rahman",
+        "lastName": "Ashari",
+        "gender": "male",
+        "age": 17,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Fuad",
+        "lastName": "Romadhon",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Bambang",
+        "lastName": "Pamungkas",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Junior",
+        "lastName": "Mahmud",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Rahmadiyanto",
+        "lastName": "Raka",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Asep",
+        "lastName": "Putera",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Adipati",
+        "lastName": "Dolken",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Hasan",
+        "lastName": "Husni",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Jeremy",
+        "lastName": "Sibuea",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Wildan",
+        "lastName": "Susanto",
+        "gender": "male",
+        "age": 17,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Marwan",
+        "lastName": "Mikail",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 7
+    },
+    { 
+        "firstName": "Alan",
+        "lastName": "Walker",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 7
+    },
+    {
+        "firstName": "Jibril",
+        "lastName": "Isya",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Bon",
+        "lastName": "Jovi",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Bambang",
+        "lastName": "Purwanto",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Yogi",
+        "lastName": "Hermansyah",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Julius",
+        "lastName": "Rahmad",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Jati",
+        "lastName": "Pambudi",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Yosephine",
+        "lastName": "Merphine",
+        "gender": "female",
+        "age": 17,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Niken",
+        "lastName": "Anjani",
+        "gender": "female",
+        "age": 16,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Hendra",
+        "lastName": "Wibisana",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Peggy",
+        "lastName": "Setiawan",
+        "gender": "male",
+        "age": 18,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Awang",
+        "lastName": "Ginanjar",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Andre",
+        "lastName": "Zafran",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Retno",
+        "lastName": "Puteri",
+        "gender": "female",
+        "age": 15,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Yoyon",
+        "lastName": "Pitoyon",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Egy",
+        "lastName": "Permana",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Shiny",
+        "lastName": "Mega",
+        "gender": "female",
+        "age": 15,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Ahyat",
+        "lastName": "Yahya",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Mona",
+        "lastName": "Ratulius",
+        "gender": "female",
+        "age": 17,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Ratu",
+        "lastName": "Ayu",
+        "gender": "female",
+        "age": 16,
+        "role": "student",
+        "ClassId": 8
+    },
+    { 
+        "firstName": "Anny",
+        "lastName": "Puteri",
+        "gender": "female",
+        "age": 16,
+        "role": "student",
+        "ClassId": 8
+    },
+    {
+        "firstName": "Gunawan",
+        "lastName": "Hermawan",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Didi",
+        "lastName": "Riadi",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Herry",
+        "lastName": "Hermawan",
+        "gender": "male",
+        "age": 17,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Imam",
+        "lastName": "Mahdi",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Chacha",
+        "lastName": "Septriasah",
+        "gender": "female",
+        "age": 16,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Vivi",
+        "lastName": "Susanto",
+        "gender": "female",
+        "age": 15,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Hawa",
+        "lastName": "Susanti",
+        "gender": "female",
+        "age": 15,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Rikha",
+        "lastName": "Nobi",
+        "gender": "female",
+        "age": 16,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Fitri",
+        "lastName": "Habibah",
+        "gender": "female",
+        "age": 17,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Alief",
+        "lastName": "Fajri",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Faisal",
+        "lastName": "Anshori",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Jimmy",
+        "lastName": "Juliansyah",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Andi",
+        "lastName": "Brugman",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Ahmad",
+        "lastName": "Baihaki",
+        "gender": "male",
+        "age": 22,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Ratna",
+        "lastName": "Ayu",
+        "gender": "female",
+        "age": 16,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Pevita",
+        "lastName": "Pearce",
+        "gender": "female",
+        "age": 16,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Hariansyah",
+        "lastName": "Sitopang",
+        "gender": "male",
+        "age": 14,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Chris",
+        "lastName": "Sihotang",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Dimitri",
+        "lastName": "Wahyudi",
+        "gender": "male",
+        "age": 15,
+        "role": "student",
+        "ClassId": 9
+    },
+    {
+        "firstName": "Thomas",
+        "lastName": "Eka",
+        "gender": "male",
+        "age": 16,
+        "role": "student",
+        "ClassId": 9
+    }
+]

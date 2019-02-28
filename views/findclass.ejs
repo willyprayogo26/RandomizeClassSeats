@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <% include ./navbar/bootstrapLink.ejs %>
+    <title><%= title%></title>
+</head>
+<body>
+    <% include ./navbar/navbar.ejs %>
+    <form action="/findclass" method="post">
+        <select name="class">
+            <% for(let data of classes) { %>
+                <option value="<%= data.dataValues.id %>"><%= data.dataValues.name %></option>
+            <% } %>
+        </select>
+        <button type="submit">Show</button>
+    </form>
+</body>
+</html>
