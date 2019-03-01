@@ -33,8 +33,8 @@
             border: 2px solid rgb(48, 51, 48);
             display:inline-block;
             padding: 20px 40px;
-            margin-top: 20px;
-            margin-left: 20px;
+            margin-top: 10px;
+            margin-left: 10px;
             margin-right: 20px;
             margin-bottom: 20px;
             border-radius: 5px;
@@ -49,6 +49,10 @@
         <br><br>
         <% for(let seat of seats) { %>
             <% if(seat.dataValues.UserId < 10) { %>
+                <div class="seats">
+                        00<%= seat.dataValues.UserId %>
+                </div>
+            <% } else if(seat.dataValues.UserId < 100) { %>
                 <div class="seats">
                         0<%= seat.dataValues.UserId %>
                 </div>

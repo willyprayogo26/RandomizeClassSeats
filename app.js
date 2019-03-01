@@ -4,7 +4,7 @@ const CronJob = require('cron').CronJob;
 const session = require('express-session')
 const routes = require('./routes')
 const random = require('./helper/randomClass')
-const port = 3001
+const port = process.env.PORT || 4000
 
 app.set("view engine", "ejs")
 app.use(express.json())
