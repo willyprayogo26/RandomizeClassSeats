@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <% include ./navbar/bootstrapLink.ejs %>
+    <title><%= title%></title>
+</head>
+<body>
+    <% include ./navbar/navbar.ejs %>
+    <%if(error) {%>
+        <%= error%>
+    <%}%>
+    <form action="/users/add" method="post">
+        <p>First Name</p>
+        <input type="text" name="firstName" placeholder="Input your first name...">
+        <p>Last Name</p>
+        <input type="text" name="lastName" placeholder="Input your last name...">
+        <p>Password</p>
+        <input type="password" name="password" placeholder="Password">
+        <p>Gender</p>
+        <select name="gender">
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+        </select>
+        <p>Date of Birth</p>
+        <input type="date" name="dateBirth">
+        <p>Email</p>
+        <input type="text" name="email" placeholder="Example: abcde12345@gmail.com">
+        <p>Role</p>
+        <select name="role">
+            <option value="student">Student</option>
+            <option value="headmaster">Head Master</option>
+        </select>
+        <select name="ClassId">
+            <option value="" selected>NONE</option>
+            <option value="1">VII-A</option>
+            <option value="2">VII-B</option>
+            <option value="3">VII-C</option>
+            <option value="4">VIII-A</option>
+            <option value="5">VIII-B</option>
+            <option value="6">VIII-C</option>
+            <option value="7">IX-A</option>
+            <option value="8">IX-B</option>
+            <option value="9">IX-C</option>
+        </select>
+        <p><button type="submit">Submit</button></p>
+    </form>
+</body>
+</html>

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "VII-A",
+        "SchoolId": 1
+    },
+    {
+        "name": "VII-B",
+        "SchoolId": 1
+    },
+    {
+        "name": "VII-C",
+        "SchoolId": 1
+    },
+    {
+        "name": "VIII-A",
+        "SchoolId": 1
+    },
+    {
+        "name": "VIII-B",
+        "SchoolId": 1
+    },
+    {
+        "name": "VIII-C",
+        "SchoolId": 1
+    },
+    {
+        "name": "IX-A",
+        "SchoolId": 1
+    },
+    {
+        "name": "IX-B",
+        "SchoolId": 1
+    },
+    {
+        "name": "IX-C",
+        "SchoolId": 1
+    }
+]

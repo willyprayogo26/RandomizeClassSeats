@@ -1,0 +1,11 @@
+[
+    {
+        "firstName": "Willy",
+        "lastName": "Prayogo",
+        "password": "willyprayogo26",
+        "gender": "male",
+        "age": 22,
+        "email": "willyprayogo26@gmail.com",
+        "role": "admin"
+    }
+]

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <% include ./navbar/bootstrapLink.ejs %>
+    <title><%= title%></title>
+    <style>
+        table {
+            padding: 5px;
+            background-color: aliceblue;
+            margin-top: 10px;
+            width: 100%;
+        }
+        thead {
+            text-align: center;
+            background-color: #333333;
+            color: aliceblue;
+            font-weight: bold;
+        }
+        td {
+            padding: 8px;
+        }
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333333;
+        }
+        li {
+            float: unset;
+        }
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 16px;
+            text-decoration: none;
+        }
+        li a:hover {
+            background-color: #111111;
+        }
+    </style>
+</head>
+<body>
+    <% include ./navbar/navbar.ejs %>
+    <table border="1">
+        <thead>
+            <td>First Name</td>
+            <td>Last Name</td>
+            <td>Gender</td>
+            <td>Email</td>
+            <td>Role</td>
+            <td>Class Id</td>
+            <td>Chair Id</td>
+            <td>Date</td>
+        </thead>
+    
+        <tbody>
+            <%if(histories.length > 0) {%>
+                <%for(let history of histories.Users) {%>
+                    <tr>
+                        <td><%= history.firstName %></td>
+                        <td><%= history.lastName %></td>
+                        <td style="text-align:center"><%= history.gender %></td>
+                        <td><%= history.email %></td>
+                        <td style="text-align:center"><%= history.role %></td>
+                        <td style="text-align:center"><%= history.ClassId %></td>
+                        <td style="text-align:center"><%= history.ClassId %></td>
+                        <td><%= history.email %></td>
+                    </tr>
+                <%}%>
+            <%}%>
+        </tbody>
+    </table>
+</body>
+</html>
