@@ -38,8 +38,7 @@ routes.post('/add', (req, res) => {
         res.redirect('/')
     })
     .catch(err => {
-        res.send(err)
-        // res.redirect(`/users/add?error=${err.errors[0].message}`)
+        res.redirect(`/users/add?error=${err.errors[0].message}`)
     })
 })
 
